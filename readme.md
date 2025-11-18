@@ -131,7 +131,7 @@ Run the command below to list all Python templates installed:
 func templates list --language python
 This will show you all templates you can use with func new.
 Durable Functions templates might be slightly differently named or missing:
-
+```
 (.venv) C:\Users\sarad\Documents\VSCodeProjects\AzureDurableFunction>func templates list --language python
 'local.settings.json' found in root directory (C:\Users\sarad\Documents\VSCodeProjects\AzureDurableFunction).
 Resolving worker runtime to 'python'.
@@ -165,7 +165,7 @@ Python Templates:
 
 
 (.venv) C:\Users\sarad\Documents\VSCodeProjects\AzureDurableFunction>
-
+```
 
 ## next steps
 We will create three components:
